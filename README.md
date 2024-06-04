@@ -28,7 +28,7 @@ example in order to gain deeper knowledge about it.
 It is currently still completely unclear to me which deap learning algorithm I will 
 use for the project. I think it makes sense to document the original rotations with 
 the Ruby Cube and to arrange them according to the respective result of these turns 
-and to give the model as training material
+and to give the model as training material. 
 
 ## Challenges
 
@@ -43,12 +43,12 @@ solution first.
 
 As a first step, I will continue to deal with the basics that are necessary to set 
 up such a model. I.e. specifically, I will first continue to deal with learning the 
-programming language Python And at the same time, I will acquire theory about the 
+programming language Python and at the same time, I will acquire theory about the 
 various deep learning algorithms and also try to get to know the corresponding 
 frameworks available and familiarise myself with them. 
 
 ## Acknowledgments
 
-I would like to thank the learning platform BDI, which has accompanied me many 
+I would like to thank the learning platform "Building AI" which has accompanied me many 
 evenings with the corresponding course in recent weeks and has provided me with 
 a lot of interesting questions. 

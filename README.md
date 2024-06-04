@@ -25,28 +25,30 @@ example in order to gain deeper knowledge about it.
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+It is currently still completely unclear to me which deap learning algorithm I will 
+use for the project. I think it makes sense to document the original rotations with 
+the Ruby Cube and to arrange them according to the respective result of these turns 
+and to give the model as training material
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+It would be enough for me first if the model found a solution for the puzzle. 
+Of course, it would be even better if the solution was always achieved with 
+the minimum necessary number of singles, which is the so-called Gods number. 
+But I realise that enormous computing power and resources will be necessary for this 
+but it is currently not available and that's why I'm satisfied with a simple 
+solution first. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+As a first step, I will continue to deal with the basics that are necessary to set 
+up such a model. I.e. specifically, I will first continue to deal with learning the 
+programming language Python And at the same time, I will acquire theory about the 
+various deep learning algorithms and also try to get to know the corresponding 
+frameworks available and familiarise myself with them. 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+I would like to thank the learning platform BDI, which has accompanied me many 
+evenings with the corresponding course in recent weeks and has provided me with 
+a lot of interesting questions. 
